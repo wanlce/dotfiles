@@ -1,0 +1,13 @@
+#! $HOME/.gitignore
+
+#----[ ignore all ] -----
+*
+#---[ consider list ]---
+!*.[Xx]resources
+!*.conf
+!*config*
+!*[a-zA-Z]*rc
+!.config/
+!.config/*
+!.gitignore
+#---[ ignore list ]---

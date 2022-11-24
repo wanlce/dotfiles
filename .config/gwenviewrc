@@ -1,0 +1,19 @@
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+HDMI-0 XPosition 3440x1440=1400
+HDMI-0 YPosition 3440x1440=473
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Pictures/壁纸/6a4273376ed3f8cb2fad30926a345601a9aa3f9f.png
+File2[$e]=$HOME/Pictures/Pictures/壁纸/6a4273376ed3f8cb2fad30926a345601a9aa3f9f (copy).png
+Name1[$e]=6a4273376ed3f8cb2fad30926a345601a9aa3f9f.png
+Name2[$e]=6a4273376ed3f8cb2fad30926a345601a9aa3f9f (copy).png

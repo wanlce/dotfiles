@@ -1,0 +1,28 @@
+[user]
+	name = wanlce
+	email = whox@foxmail.com
+[diff]
+    tool = kitty
+    guitool = kitty.gui
+[difftool]
+    prompt = false
+    trustExitCode = true
+[difftool "kitty"]
+    cmd = kitty +kitten diff $LOCAL $REMOTE
+[difftool "kitty.gui"]
+    cmd = kitty kitty +kitten diff $LOCAL $REMOTE
+[color]
+	ui = auto
+[core]
+	editor = nvim
+	quotepath = false
+[oh-my-zsh]
+	hide-dirty = 1
+#[http]
+#	proxy = socks5://127.0.0.1:1081
+[https]
+	proxy = socks5://127.0.0.1:1081
+[init]
+	defaultBranch = main
+#[pager]
+#	log = false

@@ -1,0 +1,31 @@
+{
+	"useNeDB": false,
+	"version": "1.1.3",
+	"theme": "light",
+	"sourceGroups": [
+		{
+			"isMultiple": false,
+			"sids": [
+				0
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				1
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				2
+			]
+		}
+	],
+	"menuOn": true,
+	"fetchInterval": 60,
+	"fontSize": 19,
+	"view": 0,
+	"filterType": 19,
+	"fontFamily": "Open Sans"
+}

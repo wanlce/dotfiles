@@ -11,3 +11,5 @@
 !.config/*
 !.gitignore
 #---[ ignore list ]---
+.config/Kingsoft
+.config/goldendict

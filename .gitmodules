@@ -1,0 +1,9 @@
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:wanlce/nvimdots.git
+[submodule ".config/mpv/shaders/mpv-prescalers"]
+	path = .config/mpv/shaders/mpv-prescalers
+	url = https://github.com/bjin/mpv-prescalers.git
+[submodule ".config/kitty/kitty-themes"]
+	path = .config/kitty/kitty-themes
+	url = https://github.com/dexpota/kitty-themes.git

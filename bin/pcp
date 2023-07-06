@@ -1,0 +1,4 @@
+#!/bin/bash
+args=("$@")
+set -x
+time rsync --archive --hard-links --human-readable --numeric-ids --acls --xattrs --sparse --itemize-changes --verbose --progress "${args[@]%/}"

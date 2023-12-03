@@ -1,4 +1,7 @@
-#!/bin/bash
-args=("$@")
+#!/usr/bin/env fish
+
+set args $argv
+
 set -x
-time rsync --archive --hard-links --human-readable --numeric-ids --acls --xattrs --sparse --itemize-changes --verbose --progress "${args[@]%/}"
+
+time rsync --archive --hard-links --human-readable --numeric-ids --acls --xattrs --sparse --itemize-changes --verbose --progress $args
